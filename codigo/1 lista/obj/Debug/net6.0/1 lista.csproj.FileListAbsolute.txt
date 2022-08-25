@@ -43,3 +43,18 @@ C:\Users\Caio Fernandes\OneDrive\Pasta_Compartilhada_Amorzinho\Cainho\sistemas_d
 C:\Users\Caio Fernandes\OneDrive\Pasta_Compartilhada_Amorzinho\Cainho\sistemas_de_informacao\aeds\1 lista\obj\Debug\net6.0\1 lista.pdb
 C:\Users\Caio Fernandes\OneDrive\Pasta_Compartilhada_Amorzinho\Cainho\sistemas_de_informacao\aeds\1 lista\obj\Debug\net6.0\1 lista.genruntimeconfig.cache
 C:\Users\Caio Fernandes\OneDrive\Pasta_Compartilhada_Amorzinho\Cainho\sistemas_de_informacao\aeds\1 lista\obj\Debug\net6.0\ref\1 lista.dll
+C:\Users\caiov\OneDrive\Pasta_Compartilhada_Amorzinho\Cainho\sistemas_de_informacao\aeds\github\lab-aed-pco-2022-2-caiovitfernandes\codigo\1 lista\bin\Debug\net6.0\1 lista.exe
+C:\Users\caiov\OneDrive\Pasta_Compartilhada_Amorzinho\Cainho\sistemas_de_informacao\aeds\github\lab-aed-pco-2022-2-caiovitfernandes\codigo\1 lista\bin\Debug\net6.0\1 lista.deps.json
+C:\Users\caiov\OneDrive\Pasta_Compartilhada_Amorzinho\Cainho\sistemas_de_informacao\aeds\github\lab-aed-pco-2022-2-caiovitfernandes\codigo\1 lista\bin\Debug\net6.0\1 lista.runtimeconfig.json
+C:\Users\caiov\OneDrive\Pasta_Compartilhada_Amorzinho\Cainho\sistemas_de_informacao\aeds\github\lab-aed-pco-2022-2-caiovitfernandes\codigo\1 lista\bin\Debug\net6.0\1 lista.dll
+C:\Users\caiov\OneDrive\Pasta_Compartilhada_Amorzinho\Cainho\sistemas_de_informacao\aeds\github\lab-aed-pco-2022-2-caiovitfernandes\codigo\1 lista\bin\Debug\net6.0\1 lista.pdb
+C:\Users\caiov\OneDrive\Pasta_Compartilhada_Amorzinho\Cainho\sistemas_de_informacao\aeds\github\lab-aed-pco-2022-2-caiovitfernandes\codigo\1 lista\obj\Debug\net6.0\1 lista.csproj.AssemblyReference.cache
+C:\Users\caiov\OneDrive\Pasta_Compartilhada_Amorzinho\Cainho\sistemas_de_informacao\aeds\github\lab-aed-pco-2022-2-caiovitfernandes\codigo\1 lista\obj\Debug\net6.0\1 lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caiov\OneDrive\Pasta_Compartilhada_Amorzinho\Cainho\sistemas_de_informacao\aeds\github\lab-aed-pco-2022-2-caiovitfernandes\codigo\1 lista\obj\Debug\net6.0\1 lista.AssemblyInfoInputs.cache
+C:\Users\caiov\OneDrive\Pasta_Compartilhada_Amorzinho\Cainho\sistemas_de_informacao\aeds\github\lab-aed-pco-2022-2-caiovitfernandes\codigo\1 lista\obj\Debug\net6.0\1 lista.AssemblyInfo.cs
+C:\Users\caiov\OneDrive\Pasta_Compartilhada_Amorzinho\Cainho\sistemas_de_informacao\aeds\github\lab-aed-pco-2022-2-caiovitfernandes\codigo\1 lista\obj\Debug\net6.0\1 lista.csproj.CoreCompileInputs.cache
+C:\Users\caiov\OneDrive\Pasta_Compartilhada_Amorzinho\Cainho\sistemas_de_informacao\aeds\github\lab-aed-pco-2022-2-caiovitfernandes\codigo\1 lista\obj\Debug\net6.0\1 lista.dll
+C:\Users\caiov\OneDrive\Pasta_Compartilhada_Amorzinho\Cainho\sistemas_de_informacao\aeds\github\lab-aed-pco-2022-2-caiovitfernandes\codigo\1 lista\obj\Debug\net6.0\refint\1 lista.dll
+C:\Users\caiov\OneDrive\Pasta_Compartilhada_Amorzinho\Cainho\sistemas_de_informacao\aeds\github\lab-aed-pco-2022-2-caiovitfernandes\codigo\1 lista\obj\Debug\net6.0\1 lista.pdb
+C:\Users\caiov\OneDrive\Pasta_Compartilhada_Amorzinho\Cainho\sistemas_de_informacao\aeds\github\lab-aed-pco-2022-2-caiovitfernandes\codigo\1 lista\obj\Debug\net6.0\1 lista.genruntimeconfig.cache
+C:\Users\caiov\OneDrive\Pasta_Compartilhada_Amorzinho\Cainho\sistemas_de_informacao\aeds\github\lab-aed-pco-2022-2-caiovitfernandes\codigo\1 lista\obj\Debug\net6.0\ref\1 lista.dll
