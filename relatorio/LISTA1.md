@@ -12,6 +12,8 @@ Saídas:
 3025
 9801
 
+![lista1ex1] (/imagens/lista1ex1.png)
+
 # Exercício 2:
 ## Um Número é dito Primo se possui como divisores o número 1 e ele mesmo. Em outras palavras, um Número Primo possui dois divisores de 1 até ele. Faça um programa que mostre se um determinado número inteiro, lido pelo teclado, é Primo.
 
