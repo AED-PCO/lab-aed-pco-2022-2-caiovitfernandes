@@ -12,7 +12,7 @@ Saídas:
 3025
 9801
 
-![lista1ex1] (https://github.com/AED-PCO/lab-aed-pco-2022-2-caiovitfernandes/blob/main/relatorio/imagens/lista1ex1.png?raw=true)
+![lista1ex1] (C:\Users\caiov\OneDrive\Pasta_Compartilhada_Amorzinho\Cainho\sistemas_de_informacao\aeds\github\lab-aed-pco-2022-2-caiovitfernandes\relatorio\imagens\lista1ex1.png)
 
 # Exercício 2:
 ## Um Número é dito Primo se possui como divisores o número 1 e ele mesmo. Em outras palavras, um Número Primo possui dois divisores de 1 até ele. Faça um programa que mostre se um determinado número inteiro, lido pelo teclado, é Primo.
