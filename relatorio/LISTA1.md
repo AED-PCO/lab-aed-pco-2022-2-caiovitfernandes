@@ -37,7 +37,7 @@ Saídas:
 
 Gráfico de complexidade:
 
-<img src=".\imagens\graficos\lista1ex2.png">
+<img src=".\imagens\graficos\lista1ex2a.png">
 
 ## Um Número é dito Perfeito se a soma de seus divisores menores que ele é igual a ele. Por exemplo, o número 6 possui os  divisores 1, 2 e 3, cuja soma é igual a 6. Faça um programa que liste os números perfeitos de 1 a 1000.
 
