@@ -318,7 +318,7 @@
     static void Main(string[] args){
         int programa = 1;
         do{
-            Console.Write("Escolha qual programa rodar:\n1 - Busca binária\n2 - Busca Binária otimizada (Sem Pos)\n3 - Ordenação binária otimizada (Sem Pos)\n4 - Ordenação binária com pos\n0 - Sair do programa\n");
+            Console.Write("Escolha qual programa rodar:\n1 - Busca binária\n2 - Busca Binária otimizada (Sem Pos)\n3 - Ordenação binária otimizada (Sem Pos)\n4 +c- Ordenação binária com pos\n0 - Sair do programa\n");
             programa = int.Parse(Console.ReadLine());
 
             if(programa == 1){

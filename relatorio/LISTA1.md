@@ -35,6 +35,10 @@ Saídas:
 
 <img src=".\imagens\lista1ex2.png">
 
+Gráfico de complexidade:
+
+<img src=".\imagens\graficos\lista1ex2.png">
+
 ## Um Número é dito Perfeito se a soma de seus divisores menores que ele é igual a ele. Por exemplo, o número 6 possui os  divisores 1, 2 e 3, cuja soma é igual a 6. Faça um programa que liste os números perfeitos de 1 a 1000.
 
 Para resolução deste, foi implementado um for que percorre por todos os antecessores do número, descobrindo pela operação mod (%), se são dividores do número. Caso fosse divisor, uma variável auxiliar recebia esse número somando de maneira acumulativa. No fim, o programa compara a soma dos divisores com o próprio numero.
@@ -46,6 +50,10 @@ Saídas: Os números perfeitos de 1 a 1000 são:
 496
 
 <img src=".\imagens\lista1ex2b.png">
+
+Gráfico de complexidade:
+
+<img src=".\imagens\graficos\lista1ex2b.png">
 
 # Exercício 3:
 ## Faça um programa que receba os elementos de dois vetores, A e B, cada um com 5 posições. Considere que nenhum dos vetores possui elementos repetidos. Crie um vetor resultante C que possua os elementos comuns entre A e B. Crie um vetor resultante D que contenha os elementos de A que não existam em B.
@@ -72,6 +80,10 @@ Os números em comum são: 2, 4, 0, 0, 0
 e os números de a que não estão em b: 1, 3, 5, 0, 0
 
 <img src=".\imagens\lista1ex3.png">
+
+Gráfico de complexidade:
+
+<img src=".\imagens\graficos\lista1ex3.png">
 
 # Exercício 4:
 ## Faça um programa que receba os elementos de uma matriz de 5 linhas por 3 colunas. Mostre a soma dos elementos de cada uma das linhas e das colunas da matriz.
@@ -114,6 +126,10 @@ Soma da Coluna 3: 45
 
 <img src=".\imagens\lista1ex4.png">
 
+Gráfico de complexidade:
+
+<img src=".\imagens\graficos\lista1ex4.png">
+
 # Exercício 5:
 ## Faça um programa que chame uma função capaz de calcular o Fatorial de um número inteiro.
 
@@ -123,6 +139,10 @@ Entrada Exemplo: 7
 Saída: 5040
 
 <img src=".\imagens\lista1ex5.png">
+
+Gráfico de complexidade:
+
+<img src=".\imagens\graficos\lista1ex5.png">
 
 # Exercício 6:
 ## Faça um programa que chame uma função capaz de calcular x^y, sendo x e y inteiros. Utilize passagem de parâmetros por referência.
@@ -136,3 +156,7 @@ Entrada Exemplo:
 Saída: 27
 
 <img src=".\imagens\lista1ex6.png">
+
+Gráfico de complexidade:
+
+<img src=".\imagens\graficos\lista1ex6.png">

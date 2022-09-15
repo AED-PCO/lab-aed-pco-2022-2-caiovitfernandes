@@ -13,6 +13,10 @@ Saídas: 39916800
 
 <img src=".\imagens\lista2ex1.png">
 
+Gráfico de complexidade:
+
+<img src=".\imagens\graficos\lista2ex1.png">
+
 # Exercício 2: 
 ## Uma multiplicação pode ser vista como uma sequência de somas. Escreva um método recursivo que realize a multiplicação de dois números inteiros, A e B, recebidos por parâmetro.
 
@@ -25,6 +29,10 @@ Entradas:
 Saídas: -9
 
 <img src=".\imagens\lista2ex2.png">
+
+Gráfico de complexidade:
+
+<img src=".\imagens\graficos\lista2ex2.png">
 
 # Exercício 3: 
 ## Escreva um método recursivo que realize a potenciação entre dois números inteiros, A e B, recebidos por parâmetro. Seu método deve, portanto, retornar o resultado de A
@@ -40,6 +48,10 @@ Saídas: 27
 
 <img src=".\imagens\lista2ex3.png">
 
+Gráfico de complexidade:
+
+<img src=".\imagens\graficos\lista2ex3.png">
+
 # Exercício 4: 
 ## Escreva um método recursivo que receba uma frase e uma letra como parâmetros. Este método deve retornar a quantidade de ocorrências desta letra nesta frase.
 
@@ -52,6 +64,10 @@ Saídas: Na frase "eu gosto de aed", a letra e aparece 3 vezes
 
 
 <img src=".\imagens\lista2ex4.png">
+
+Gráfico de complexidade:
+
+<img src=".\imagens\graficos\lista2ex4.png">
 
 # Exercício 5: 
 ## Escreva um método recursivo que calcule a soma dos elementos de valor par de um vetor de números inteiros positivos.
@@ -71,6 +87,10 @@ Saídas: No vetor acima, a soma dos números pares é 6
 
 <img src=".\imagens\lista2ex5.png">
 
+Gráfico de complexidade:
+
+<img src=".\imagens\graficos\lista2ex5.png">
+
 # Exercício 6: 
 ## Escreva um método recursivo que receba uma frase e retorne a mesma frase, sem nenhuma vogal. 
 
@@ -81,3 +101,7 @@ Saídas:   gst d d
 
 
 <img src=".\imagens\lista2ex6.png">
+
+Gráfico de complexidade:
+
+<img src=".\imagens\graficos\lista2ex6.png">

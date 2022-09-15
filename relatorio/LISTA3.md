@@ -15,6 +15,10 @@ Saídas: 2 está na posição 1 do vetor.
 
 <img src=".\imagens\lista3ex1.png">
 
+Gráfico de complexidade:
+
+<img src=".\imagens\graficos\lista3ex1.png">
+
 # Exercício 2: 
 ## Faça um programa que realize a busca de um número inteiro em vetor de maneira binária e sem passar a posição como parâmetro
 
@@ -27,6 +31,10 @@ Número procurado: 2
 Saídas: 2 está no vetor
 
 <img src=".\imagens\lista3ex2.png">
+
+Gráfico de complexidade:
+
+<img src=".\imagens\graficos\lista3ex2.png">
 
 # Exercício 3: 
 ## Faça um programa que realize a ordenação binária de um vetor desordenado
@@ -42,6 +50,10 @@ Vetor ordenado: 1  2  3  4
 
 <img src=".\imagens\lista3ex3.png">
 
+Gráfico de complexidade:
+
+<img src=".\imagens\graficos\lista3ex3.png">
+
 # Exercício 4: 
 ## Faça um programa que realize a ordenação binária de um vetor desordenado, recebendo uma posição como parâmetro
 
@@ -55,3 +67,7 @@ Vetor ordenado: 1  2  3  4  7
 
 
 <img src=".\imagens\lista3ex4.png">
+
+Gráfico de complexidade:
+
+<img src=".\imagens\graficos\lista3ex4.png">

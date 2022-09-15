@@ -53,11 +53,13 @@
                 //Exercício 2, 2a parte
                 Console.WriteLine("Os números perfeitos de 1 a 1000 são:");
                 int soma_dos_divisores = 0;
+                int contador = 0;
 
                 for (int i = 1; i <= 1000; i++){
                     for(int j = 1; j < i; j++){
                         if((i % j) == 0){
                             soma_dos_divisores += j;
+                            contador++;
                         }
                     }
 
@@ -67,6 +69,7 @@
                     
                     soma_dos_divisores = 0;
                 }
+                Console.WriteLine("Contador de somas e atribuições:" + contador);
                 Console.WriteLine("Enter para continuar.");
                 Console.ReadLine();
                 Console.Clear();
