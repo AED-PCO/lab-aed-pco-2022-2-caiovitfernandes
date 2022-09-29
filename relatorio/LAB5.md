@@ -96,4 +96,4 @@ As operações mais relevantes são Atribuição, Divisão e Soma.
 **Variações de casos (por ordem de complexidade):**
 * Pior Caso: O(n<sup>2</sup>)
 * Melhor Caso: Ω(n<sup>2</sup>)
-* Caso Médio: (n<sup>2</sup> + n<sup>2</sup>) / 2 = Θn<sup>2</sup>
+* Caso Médio: (n<sup>2</sup> + n<sup>2</sup>) / 2 = Θ(n<sup>2</sup>)
