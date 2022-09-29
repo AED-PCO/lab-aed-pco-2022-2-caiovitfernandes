@@ -1,7 +1,7 @@
 # Funcionamento do Program.cs
 Todos os exercícios foram desenvolvidos em um único arquivo .cs. A execussão dos programas é feita a partir da seleção feita pelo usuário em um menu implementado assim que o programa é aberto. Na pasta do projeto, há também um arquivo chamado Programa.bat. Este arquivo executa o programa no console do computador. Alguns solicitam entradas do usuário, outros apenas fazem cálculos sozinhos e printam os resultados. A descrição e a maneira como se seguem cada exercício encontra-se a seguir:
 
-*OBS: O programa pergunta ao usuário o tamanho do vetor de entrada e então chama um método para preencher o vetor com números aleatórios
+* OBS: O programa pergunta ao usuário o tamanho do vetor de entrada e então chama um método para preencher o vetor com números aleatórios
 
 # Exercício 1: 
 ## Ordenação com Bubble Sort
@@ -68,7 +68,7 @@ Saídas:
 
 Gráfico de complexidade:
 
-<img src=".\imagens\graficos\lista6ex1.png">
+<img src=".\imagens\graficos\lista6ex2.png">
 
 # Exercício 3: 
 ## Ordenação com Insertion Sort
@@ -102,4 +102,4 @@ Saídas:
 
 Gráfico de complexidade:
 
-<img src=".\imagens\graficos\lista6ex1.png">
+<img src=".\imagens\graficos\lista6ex3.png">
