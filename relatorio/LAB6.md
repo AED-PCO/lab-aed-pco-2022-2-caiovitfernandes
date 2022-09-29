@@ -64,7 +64,7 @@ Saídas:
 </details>
 
 
-<img src=".\imagens\lista6ex1.png">
+<img src=".\imagens\lista6ex2.png">
 
 Gráfico de complexidade:
 
@@ -98,7 +98,7 @@ Saídas:
 </details>
 
 
-<img src=".\imagens\lista6ex1.png">
+<img src=".\imagens\lista6ex3.png">
 
 Gráfico de complexidade:
 
