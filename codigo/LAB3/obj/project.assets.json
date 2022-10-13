@@ -1,36 +1,42 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    ".NETFramework,Version=v6.0": {},
+    ".NETFramework,Version=v6.0/win7-x86": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": []
+    ".NETFramework,Version=v6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\caiov\\.nuget\\packages\\": {}
+    "C:\\Users\\1216303\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\caiov\\OneDrive\\Pasta_Compartilhada_Amorzinho\\Cainho\\sistemas_de_informacao\\aeds\\github\\lab-aed-pco-2022-2-caiovitfernandes\\codigo\\3 lista\\3 lista.csproj",
+      "projectUniqueName": "C:\\Users\\1216303\\OneDrive\\Pasta_Compartilhada_Amorzinho\\Cainho\\sistemas_de_informacao\\aeds\\github\\lab-aed-pco-2022-2-caiovitfernandes\\codigo\\LAB3\\3 lista.csproj",
       "projectName": "3 lista",
-      "projectPath": "C:\\Users\\caiov\\OneDrive\\Pasta_Compartilhada_Amorzinho\\Cainho\\sistemas_de_informacao\\aeds\\github\\lab-aed-pco-2022-2-caiovitfernandes\\codigo\\3 lista\\3 lista.csproj",
-      "packagesPath": "C:\\Users\\caiov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\caiov\\OneDrive\\Pasta_Compartilhada_Amorzinho\\Cainho\\sistemas_de_informacao\\aeds\\github\\lab-aed-pco-2022-2-caiovitfernandes\\codigo\\3 lista\\obj\\",
+      "projectPath": "C:\\Users\\1216303\\OneDrive\\Pasta_Compartilhada_Amorzinho\\Cainho\\sistemas_de_informacao\\aeds\\github\\lab-aed-pco-2022-2-caiovitfernandes\\codigo\\LAB3\\3 lista.csproj",
+      "packagesPath": "C:\\Users\\1216303\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\1216303\\OneDrive\\Pasta_Compartilhada_Amorzinho\\Cainho\\sistemas_de_informacao\\aeds\\github\\lab-aed-pco-2022-2-caiovitfernandes\\codigo\\LAB3\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\caiov\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\1216303\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net6.0"
+        "net60"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net60": {
           "projectReferences": {}
         }
       },
@@ -41,24 +47,11 @@
       }
     },
     "frameworks": {
-      "net6.0": {
-        "targetAlias": "net6.0",
-        "imports": [
-          "net461",
-          "net462",
-          "net47",
-          "net471",
-          "net472",
-          "net48"
-        ],
-        "assetTargetFallback": true,
-        "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+      "net60": {}
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
       }
     }
   }

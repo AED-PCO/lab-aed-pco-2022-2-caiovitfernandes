@@ -28,3 +28,4 @@ C:\Users\caiov\OneDrive\Pasta_Compartilhada_Amorzinho\Cainho\sistemas_de_informa
 C:\Users\caiov\OneDrive\Pasta_Compartilhada_Amorzinho\Cainho\sistemas_de_informacao\aeds\github\lab-aed-pco-2022-2-caiovitfernandes\codigo\3 lista\obj\Debug\net6.0\3 lista.pdb
 C:\Users\caiov\OneDrive\Pasta_Compartilhada_Amorzinho\Cainho\sistemas_de_informacao\aeds\github\lab-aed-pco-2022-2-caiovitfernandes\codigo\3 lista\obj\Debug\net6.0\3 lista.genruntimeconfig.cache
 C:\Users\caiov\OneDrive\Pasta_Compartilhada_Amorzinho\Cainho\sistemas_de_informacao\aeds\github\lab-aed-pco-2022-2-caiovitfernandes\codigo\3 lista\obj\Debug\net6.0\ref\3 lista.dll
+C:\Users\1216303\OneDrive\Pasta_Compartilhada_Amorzinho\Cainho\sistemas_de_informacao\aeds\github\lab-aed-pco-2022-2-caiovitfernandes\codigo\LAB3\obj\Debug\net6.0\3 lista.pdb

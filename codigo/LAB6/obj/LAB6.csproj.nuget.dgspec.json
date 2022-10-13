@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\caiov\\OneDrive\\Pasta_Compartilhada_Amorzinho\\Cainho\\sistemas_de_informacao\\aeds\\github\\lab-aed-pco-2022-2-caiovitfernandes\\codigo\\LAB6\\LAB6.csproj": {}
+    "C:\\Users\\caiov\\OneDrive\\Pasta_Compartilhada_Amorzinho\\Cainho\\sistemas_de_informacao\\materias\\aeds\\github\\lab-aed-pco-2022-2-caiovitfernandes\\codigo\\LAB6\\LAB6.csproj": {}
   },
   "projects": {
-    "C:\\Users\\caiov\\OneDrive\\Pasta_Compartilhada_Amorzinho\\Cainho\\sistemas_de_informacao\\aeds\\github\\lab-aed-pco-2022-2-caiovitfernandes\\codigo\\LAB6\\LAB6.csproj": {
+    "C:\\Users\\caiov\\OneDrive\\Pasta_Compartilhada_Amorzinho\\Cainho\\sistemas_de_informacao\\materias\\aeds\\github\\lab-aed-pco-2022-2-caiovitfernandes\\codigo\\LAB6\\LAB6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\caiov\\OneDrive\\Pasta_Compartilhada_Amorzinho\\Cainho\\sistemas_de_informacao\\aeds\\github\\lab-aed-pco-2022-2-caiovitfernandes\\codigo\\LAB6\\LAB6.csproj",
+        "projectUniqueName": "C:\\Users\\caiov\\OneDrive\\Pasta_Compartilhada_Amorzinho\\Cainho\\sistemas_de_informacao\\materias\\aeds\\github\\lab-aed-pco-2022-2-caiovitfernandes\\codigo\\LAB6\\LAB6.csproj",
         "projectName": "LAB6",
-        "projectPath": "C:\\Users\\caiov\\OneDrive\\Pasta_Compartilhada_Amorzinho\\Cainho\\sistemas_de_informacao\\aeds\\github\\lab-aed-pco-2022-2-caiovitfernandes\\codigo\\LAB6\\LAB6.csproj",
+        "projectPath": "C:\\Users\\caiov\\OneDrive\\Pasta_Compartilhada_Amorzinho\\Cainho\\sistemas_de_informacao\\materias\\aeds\\github\\lab-aed-pco-2022-2-caiovitfernandes\\codigo\\LAB6\\LAB6.csproj",
         "packagesPath": "C:\\Users\\caiov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\caiov\\OneDrive\\Pasta_Compartilhada_Amorzinho\\Cainho\\sistemas_de_informacao\\aeds\\github\\lab-aed-pco-2022-2-caiovitfernandes\\codigo\\LAB6\\obj\\",
+        "outputPath": "C:\\Users\\caiov\\OneDrive\\Pasta_Compartilhada_Amorzinho\\Cainho\\sistemas_de_informacao\\materias\\aeds\\github\\lab-aed-pco-2022-2-caiovitfernandes\\codigo\\LAB6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\caiov\\AppData\\Roaming\\NuGet\\NuGet.Config"
