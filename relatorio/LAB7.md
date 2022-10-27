@@ -79,8 +79,8 @@ static int funcao(int a, int[] v){
 ```
 
 ## O que é retornado pela função no caso de passar os parâmetros v = {10, 5, 7, 15, 22, 9, 30} e a = 6:
-Tem-se que com esses parâmetros, a função fará, inicialmente a chamada recursiva `x<sub>1</sub> = funcao(6 - 1, v)`;
-e então essa chamada chegaria na chamada `x<sub>2</sub> = funcao(5 - 1, v)` -> `x<sub>3</sub> = funcao(4 - 1, v)` -> `x<sub>4</sub> = funcao(3 - 1, v)` -> `x<sub>5</sub> = funcao(2 - 1, v)` e essa chamada, como passa a = 1, cai na condição de parada que retorna `v[0] = 10` para o x<sub>5</sub>. O x<sub>5</sub> então continua a função até que no bloco
+Tem-se que com esses parâmetros, a função fará, inicialmente a chamada recursiva `x = funcao(6 - 1, v)`;
+e então essa chamada chegaria na chamada `x = funcao(5 - 1, v)` -> `x = funcao(4 - 1, v)` -> `x = funcao(3 - 1, v)` -> `x = funcao(2 - 1, v)` e essa chamada, como passa a = 1, cai na condição de parada que retorna `v[0] = 10` para o x<sub>5</sub>. O x<sub>5</sub> então continua a função até que no bloco
 ```
 if(x > v[a - 1])
     return x;

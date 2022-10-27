@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Caio Fernandes\\.nuget\\packages\\": {}
+    "C:\\Users\\caiov\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Caio Fernandes\\OneDrive\\Pasta_Compartilhada_Amorzinho\\Cainho\\sistemas_de_informacao\\materias\\aeds\\github\\lab-aed-pco-2022-2-caiovitfernandes\\codigo\\LAB7\\LAB7.csproj",
+      "projectUniqueName": "C:\\Users\\caiov\\OneDrive\\Pasta_Compartilhada_Amorzinho\\Cainho\\sistemas_de_informacao\\materias\\aeds\\github\\lab-aed-pco-2022-2-caiovitfernandes\\codigo\\LAB7\\LAB7.csproj",
       "projectName": "LAB7",
-      "projectPath": "C:\\Users\\Caio Fernandes\\OneDrive\\Pasta_Compartilhada_Amorzinho\\Cainho\\sistemas_de_informacao\\materias\\aeds\\github\\lab-aed-pco-2022-2-caiovitfernandes\\codigo\\LAB7\\LAB7.csproj",
-      "packagesPath": "C:\\Users\\Caio Fernandes\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Caio Fernandes\\OneDrive\\Pasta_Compartilhada_Amorzinho\\Cainho\\sistemas_de_informacao\\materias\\aeds\\github\\lab-aed-pco-2022-2-caiovitfernandes\\codigo\\LAB7\\obj\\",
+      "projectPath": "C:\\Users\\caiov\\OneDrive\\Pasta_Compartilhada_Amorzinho\\Cainho\\sistemas_de_informacao\\materias\\aeds\\github\\lab-aed-pco-2022-2-caiovitfernandes\\codigo\\LAB7\\LAB7.csproj",
+      "packagesPath": "C:\\Users\\caiov\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\caiov\\OneDrive\\Pasta_Compartilhada_Amorzinho\\Cainho\\sistemas_de_informacao\\materias\\aeds\\github\\lab-aed-pco-2022-2-caiovitfernandes\\codigo\\LAB7\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Caio Fernandes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\caiov\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
