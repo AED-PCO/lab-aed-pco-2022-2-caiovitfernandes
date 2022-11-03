@@ -37,14 +37,17 @@ Para elaboração desta estrutura, criou-se uma classe chamada pilha, que tinha 
 
 ## Inserir na pilha:
 Para o método de inserção, criou-se um método void que recebe o vetor e a referência que aponta para a última posição livre da fila. Então, o método salva o valor na posição de referência do vetor e incrementa a referência.
+
 <img src=".\imagens\lista8ex2I.png">
 
 ## Remover na pilha:
 Para o método de remoção na pilha, criou-se uma função do tipo int que recebe o vetor e a referência que aponta para a última posição da fila. Então, a função decrementa a referência e retorna o vetor na posição da referência.
+
 <img src=".\imagens\lista8ex1R.png">
 
 ## Mostrar a pilha
-Para mostrar a pilha, foi necessário a criação de um método void que recebe o vetor e o valor da referência como parâmetros. Então, o método remove um a um dos itens do vetor, passando-os para um vetor auxiliar e mostrando-os na tela. Em seguida os itens são inseridos um a um novamente na pilha
+Para mostrar a pilha, foi necessário a criação de um método void que recebe o vetor e o valor da referência como parâmetros. Então, o método remove um a um dos itens do vetor, passando-os para um vetor auxiliar e mostrando-os na tela. Em seguida os itens são inseridos um a um novamente na pilha.
+
 <img src=".\imagens\lista8ex2M.png">
 
 # Estrutura de lista
