@@ -59,9 +59,11 @@ Para o método de inserção, criou-se um método void que recebe o vetor, um va
 
 ## Remover na lista
 Para o método de remoção na lista, criou-se uma função do tipo int que recebe o vetor, a referência que aponta para a última posição da fila, e uma posição. Então, a função retorna o valor da posição passada e faz um shift para a esquerda para remover a posição da lista e decrementa a referência.
+
 <img src=".\imagens\lista8ex3R.png">
 
 ## Mostrar a lista
 Para mostrar a lista, foi necessário o desenvolvimento de um método do tipo void que recebe o vetor e a referência da última posição vaga na lista. Então, o método passa um for mostrando todos os valores na lista.
+
 <img src=".\imagens\lista8ex3M.png">
 
