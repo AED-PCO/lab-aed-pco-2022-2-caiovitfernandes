@@ -1,5 +1,7 @@
-﻿namespace LAB8{
-    class fila{
+﻿using LAB9;
+
+namespace LAB8{
+    public class fila{
         public static void shift(int[] vetor, int inicio, int fim, string sentido){
             if(sentido == "esquerda"){
                 for(int i = inicio; i <= fim; i++){
@@ -34,7 +36,7 @@
         }
     }
     
-   class pilha{
+   public class pilha{
         public static void inserir(int[] vetor, int valor, ref int referencia){
             vetor[referencia] = valor;
             referencia++;
@@ -58,7 +60,7 @@
         }
     }
 
-    class lista{
+    public class lista{
         public static void inserir(int[] vetor, int valor, ref int referencia, int pos){
             if(pos >= referencia){
                 vetor[referencia] = valor;
@@ -118,8 +120,8 @@
                 if(resposta == 1){
                     int referencia = 0;
                     int escolha = 1;
-                    while(escolha >= 1 && escolha <= 3){
-                        Console.Write("Escolha o que deseja fazer: \n1 - Inserir\n2 - Remover\n3 - Mostrar\n0 - Voltar ao menu\nResposta: ");
+                    while(escolha >= 1 && escolha <= 4){
+                        Console.Write("Escolha o que deseja fazer: \n1 - Inserir\n2 - Remover\n3 - Mostrar\n4 - Copiar\n0 - Voltar ao menu\nResposta: ");
                         escolha = int.Parse(Console.ReadLine());
                         Console.Clear();
                         
@@ -145,6 +147,16 @@
                             Console.Clear();
                         }
                         
+                        else if(escolha == 4){
+                            int[] pilhaCopia = new int[vetor.Length];
+                            LAB9.copiar.Pilha(vetor, pilhaCopia, ref referencia);
+
+                            Console.WriteLine("A pilha copiada ficou assim:");
+                            pilha.mostrar(pilhaCopia, ref referencia);
+                            Console.ReadLine();
+                            Console.Clear();
+                        }
+
                         else{
                             Console.Clear();
                             break;
@@ -200,8 +212,8 @@
                 else if(resposta == 3){
                     int referencia = 0;
                     int escolha = 1;
-                    while(escolha >= 1 && escolha <= 3){
-                        Console.Write("Escolha o que deseja fazer: \n1 - Inserir\n2 - Remover\n3 - Mostrar\n0 - Voltar ao menu\nResposta: ");
+                    while(escolha >= 1 && escolha <= 4S){
+                        Console.Write("Escolha o que deseja fazer: \n1 - Inserir\n2 - Remover\n3 - Mostrar\n4 - Copiar\n0 - Voltar ao menu\nResposta: ");
                         escolha = int.Parse(Console.ReadLine()); 
                         Console.Clear(); 
                                                 
@@ -224,6 +236,16 @@
 
                         else if(escolha == 3){
                             fila.mostrar(vetor, ref referencia);
+                            Console.ReadLine();
+                            Console.Clear();
+                        }
+
+                        else if(escolha == 4){
+                            int[] filaCopia = new int[vetor.Length];
+                            LAB9.copiar.FilaInversa(vetor, filaCopia, ref referencia);
+
+                            Console.WriteLine("A cópia da fila invertida ficou assim: ");
+                            fila.mostrar(filaCopia, ref referencia);
                             Console.ReadLine();
                             Console.Clear();
                         }

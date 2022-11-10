@@ -1,0 +1,5 @@
+C:\Users\caiov\OneDrive\Pasta_Compartilhada_Amorzinho\Cainho\sistemas_de_informacao\materias\aeds\github\lab-aed-pco-2022-2-caiovitfernandes\codigo\LAB9\obj\Debug\net6.0\LAB9.csproj.AssemblyReference.cache
+C:\Users\caiov\OneDrive\Pasta_Compartilhada_Amorzinho\Cainho\sistemas_de_informacao\materias\aeds\github\lab-aed-pco-2022-2-caiovitfernandes\codigo\LAB9\obj\Debug\net6.0\LAB9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caiov\OneDrive\Pasta_Compartilhada_Amorzinho\Cainho\sistemas_de_informacao\materias\aeds\github\lab-aed-pco-2022-2-caiovitfernandes\codigo\LAB9\obj\Debug\net6.0\LAB9.AssemblyInfoInputs.cache
+C:\Users\caiov\OneDrive\Pasta_Compartilhada_Amorzinho\Cainho\sistemas_de_informacao\materias\aeds\github\lab-aed-pco-2022-2-caiovitfernandes\codigo\LAB9\obj\Debug\net6.0\LAB9.AssemblyInfo.cs
+C:\Users\caiov\OneDrive\Pasta_Compartilhada_Amorzinho\Cainho\sistemas_de_informacao\materias\aeds\github\lab-aed-pco-2022-2-caiovitfernandes\codigo\LAB9\obj\Debug\net6.0\LAB9.csproj.CoreCompileInputs.cache
