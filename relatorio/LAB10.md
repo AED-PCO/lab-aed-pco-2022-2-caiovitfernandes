@@ -41,4 +41,5 @@ Para inserir na lista dinâmica, foi criado um método que recebe como parâmetr
 Para remover na lista dinâmica, foi criado um método que recebe como parâmetros um ponteiro para o último elemento e um ponteiro para o primeiro elemento, e a posição em que se deseja remover.
 Então o método verifica se a posição existe na lista passando pela lista. Caso sim, são feitas as desconexões de ponteiros para retornar o elemento removido. Caso não, retorna um elemento vazio.
 
+
 <img src=".\imagens\lista10ex3R.png">
