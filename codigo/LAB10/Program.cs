@@ -1,7 +1,6 @@
 ﻿using celulas;
 using pilha;
 using fila;
-using calculadoraPolonesa;
 
 namespace LAB10{
     class program{
@@ -181,7 +180,6 @@ namespace LAB10{
 
                 else if(resposta == 4){
                     Console.WriteLine("Digite a equação em notação polonesa inversa: ");
-                    calculadoraPolonesa.metodos.calculadora(Console.ReadLine());
                     Console.ReadLine();
                     Console.Clear();
                 }

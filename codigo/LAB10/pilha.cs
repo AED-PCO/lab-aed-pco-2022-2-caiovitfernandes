@@ -42,21 +42,5 @@ namespace pilha{
             }
             Console.WriteLine(ultimo.Aluno.nome);
         }
-        public static void mostrarValor(ref elemento primeiro, ref elemento ultimo){
-            elemento pesquisar;
-            if(primeiro == ultimo){
-                Console.WriteLine("Pilha Vazia!");
-                pesquisar = primeiro;
-            }
-            else{
-                pesquisar = primeiro.proximo;
-            }
-            while(pesquisar != ultimo){
-                Console.WriteLine(pesquisar.Aluno.valor);
-                pesquisar = pesquisar.proximo;
-            }
-            Console.WriteLine(ultimo.Aluno.valor);
-        }
     }
-
 }
